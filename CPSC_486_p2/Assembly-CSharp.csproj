@@ -55,16 +55,16 @@
   <ItemGroup>
      <Compile Include="Assets\GameManagerScript.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/DaIneffable/Documents/School_CSUF/CPSC 486/Proj_2/CPSC_486_p2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/GitHubRepo/CSUF_repo/cpsc486_p2/CPSC_486_p2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/DaIneffable/Documents/School_CSUF/CPSC 486/Proj_2/CPSC_486_p2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/GitHubRepo/CSUF_repo/cpsc486_p2/CPSC_486_p2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/DaIneffable/Documents/School_CSUF/CPSC 486/Proj_2/CPSC_486_p2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/GitHubRepo/CSUF_repo/cpsc486_p2/CPSC_486_p2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/DaIneffable/Documents/School_CSUF/CPSC 486/Proj_2/CPSC_486_p2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/GitHubRepo/CSUF_repo/cpsc486_p2/CPSC_486_p2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
