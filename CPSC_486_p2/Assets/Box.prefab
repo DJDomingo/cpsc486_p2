@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 33287472177597850}
   - component: {fileID: 23644093876377702}
   - component: {fileID: 65383297353048896}
+  - component: {fileID: 114867349056351226}
   m_Layer: 0
   m_Name: Box
   m_TagString: Untagged
@@ -36,7 +37,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1844599796933216}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.74, y: 4.21, z: 0}
+  m_LocalPosition: {x: -4.599683, y: 1.2215889, z: 0}
   m_LocalScale: {x: 3, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -96,3 +97,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114867349056351226
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1844599796933216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb79272f64aed684bbffaad5f249f746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cam: {fileID: 0}
+  accel: 3
+  grav: 0.5
+  turnSpeed: 100
+  ball: {fileID: 0}
+  box: {fileID: 1844599796933216}

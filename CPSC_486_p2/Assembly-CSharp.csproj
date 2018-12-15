@@ -53,8 +53,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Ball_Script.cs" />
+     <Compile Include="Assets\Box_Script.cs" />
      <Compile Include="Assets\GameManagerScript.cs" />
      <Compile Include="Assets\GameManagerScript2.cs" />
+     <Compile Include="Assets\oldVersion.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>D:/GitHubRepo/CSUF_repo/cpsc486_p2/CPSC_486_p2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
